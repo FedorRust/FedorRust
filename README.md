@@ -2,12 +2,6 @@
 
 Learning Rust. Latest thing: [bolt](https://github.com/FedorRust/bolt) — a thunderstorm in the terminal.
 
-In my free time:
-
-- 🦀 Learning Rust
-- 💻 Linux desktop (CachyOS)
-- 🖥️ Small TUI programs
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FedorRust&theme=catppuccin-mocha&fire=f38ba8)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=FedorRust&layout=compact&theme=catppuccin_mocha)](https://github.com/FedorRust)
 
