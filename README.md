@@ -9,7 +9,7 @@ In my free time:
 - 🖥️ Small TUI programs
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FedorRust&theme=catppuccin-mocha&fire=f38ba8)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorRust&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=FedorRust&layout=compact&theme=catppuccin_mocha)](https://github.com/FedorRust)
 
 ## My favorite things
 
