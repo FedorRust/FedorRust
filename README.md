@@ -1,6 +1,4 @@
-# Hi, I'm Fedor
-
-Rust. Currently [bolt](https://github.com/FedorRust/bolt).
+# Hi
 
 ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=FedorRust&theme=catppuccin-mocha)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorRust&layout=compact&theme=catppuccin_mocha)
