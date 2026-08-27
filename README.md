@@ -1,6 +1,6 @@
 # Hi there, I'm Fedor👋
 
-I write Rust. Right now that's [bolt](https://github.com/FedorRust/bolt) — a thunderstorm in the terminal.
+Learning Rust. Latest thing: [bolt](https://github.com/FedorRust/bolt) — a thunderstorm in the terminal.
 
 In my free time:
 
