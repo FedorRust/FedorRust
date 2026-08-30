@@ -10,3 +10,4 @@ I'm learning Rust, Latest thing: [bolt](https://github.com/FedorRust/bolt) — a
 [![Rust](https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=000)](https://github.com/FedorRust/bolt)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)](https://github.com/FedorRust)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)](https://github.com/FedorRust)
+.
