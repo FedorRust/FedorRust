@@ -1,6 +1,6 @@
 # Hi there👋
 
-I'm learning Rust, Latest thing: [bolt](https://github.com/FedorRust/bolt) — a thunderstorm in the terminal.
+I'm learning Rust, Latest thing: [oak(https://github.com/FedorRust/oak)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FedorRust&theme=catppuccin-mocha&fire=f38ba8)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=FedorRust&layout=compact&theme=catppuccin_mocha)](https://github.com/FedorRust)
